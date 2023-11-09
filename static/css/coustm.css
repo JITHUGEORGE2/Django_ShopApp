@@ -1,0 +1,108 @@
+.body{
+    font-family: "Sofia", sans-serif;
+}
+
+/******** dropdown **********/
+.dropdown-item{
+    font-size: 14px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.nav-item{
+    font-size: 14px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.my_footer p{
+    padding-top: 20px;
+    font-size: 14px;
+}
+
+.my_footer{
+    background-color: rgb(105, 251, 210);
+    height: 60px;
+}
+
+
+/*******  CATEGORY *******/
+.my_row_class{
+    padding-top: 15PX;
+}
+
+.my_row_class.mx-auto{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+}
+
+.my_image{
+    width: 100%;
+    height: 300px;
+}
+.my_title{
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+.my_image_padding{
+    padding: 5px;
+}
+.my_bottom_margi{
+    margin-bottom: 10px;
+}
+.card-body h4{
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+}
+
+/*******  PRODUCT *******/
+.my_prod_row_class{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.my_prod_row_class.mx_auto{
+    color:black;
+    font-size: 12px;
+    text-decoration: none;
+}
+.my_prod_title{
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.my_prod_text{
+    padding-right: 20px;
+}
+
+/******* Search *******/
+.my_serch_text{
+    padding-top: 20px;
+}
+
+/******* CART *******/
+.my_custom_table{
+    min-width: 400px;
+    font-size: 14px;
+}
+
+.my_coustom_thead{
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    background-color: darkseagreen;
+}
+.custom_a{
+    text-decoration: none;
+}
+.custom_icon{
+    text-decoration: none;
+    color:dodgerblue
+}
+.my_custom_button{
+    margin-top:5px ;
+}
